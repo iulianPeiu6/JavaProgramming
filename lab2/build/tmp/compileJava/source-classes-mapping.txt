@@ -1,0 +1,20 @@
+lab2package/AbstractSource.java
+ lab2package.AbstractSource
+lab2package/Source.java
+ lab2package.Source
+lab2package/Destination.java
+ lab2package.Destination
+lab2package/Pair.java
+ lab2package.Pair
+lab2package/Problem.java
+ lab2package.Problem
+lab2package/Main.java
+ lab2package.Main
+lab2package/Warehouse.java
+ lab2package.Warehouse
+lab2package/IProblem.java
+ lab2package.IProblem
+lab2package/Solution.java
+ lab2package.Solution
+lab2package/Factory.java
+ lab2package.Factory
