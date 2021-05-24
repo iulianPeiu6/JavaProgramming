@@ -1,0 +1,8 @@
+businesslogic/GenresDBOperatorTest.java
+ businesslogic.GenresDBOperatorTest
+PoolVSSingletonTest.java
+ PoolVSSingletonTest
+businesslogic/MovieDBOperatorTest.java
+ businesslogic.MovieDBOperatorTest
+ConnectionPoolTest.java
+ ConnectionPoolTest

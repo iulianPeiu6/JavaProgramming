@@ -1,0 +1,20 @@
+models/Genre.java
+ models.Genre
+models/Actor.java
+ models.Actor
+dbconn/DBConnectionHikari.java
+ dbconn.DBConnectionHikari
+models/Director.java
+ models.Director
+businesslogic/DirectorsDBOperator.java
+ businesslogic.DirectorsDBOperator
+dbconn/DBConnectionSingleton.java
+ dbconn.DBConnectionSingleton
+businesslogic/GenresDBOperator.java
+ businesslogic.GenresDBOperator
+businesslogic/ActorsDBOperator.java
+ businesslogic.ActorsDBOperator
+businesslogic/MovieDBOperator.java
+ businesslogic.MovieDBOperator
+models/Movie.java
+ models.Movie

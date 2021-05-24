@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="businesslogic.GenresDBOperatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-26T17:51:16" hostname="DESKTOP-0GP9D5D" time="0.241">
+  <properties/>
+  <testcase name="getAllGenresTest()" classname="businesslogic.GenresDBOperatorTest" time="0.241"/>
+  <system-out><![CDATA[[ALL GENRES TEST]	 [Genre{id=1, name='Action'}, Genre{id=2, name='Drama'}, Genre{id=10, name='Romance'}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
