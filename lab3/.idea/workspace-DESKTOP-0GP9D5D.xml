@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de17cfe4-1dea-459f-a289-8eccae89b695" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab2/src/main/java/lab2package/SourceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Classifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Visitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/Church.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/Museum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3package/TravelPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lab3package/CityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/main/java/lab4package/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/main/java/lab4package/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/main/java/lab4package/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.gradle/6.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/modules/lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/6.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/modules/lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/AbstractSource.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/AbstractSource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Destination.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Destination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Factory.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Factory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Pair.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Pair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Problem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Problem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Source.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/Warehouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/Warehouse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/lab2package/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/lab2package/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/doc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/doc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/main/java/lab2package/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/main/java/lab2package/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/main/java/lab2package/Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/main/java/lab2package/Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/main/java/lab2package/Source.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/main/java/lab2package/Source.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pCmv4qmKGSxE5K1Pf3JofS0cjN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interfaces" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lab3package" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CityTest.shouldAddLocation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3package.Main" />
+      <module name="Lab3.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityTest.shouldAddLocation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;lab3package.CityTest.shouldAddLocation&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CityTest.shouldPrintSortedlocation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;lab3package.CityTest.shouldPrintSortedlocation&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CityTest.shouldAddLocation" />
+        <item itemvalue="Gradle.CityTest.shouldPrintSortedlocation" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de17cfe4-1dea-459f-a289-8eccae89b695" name="Default Changelist" comment="" />
+      <created>1614695676212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614695676212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
