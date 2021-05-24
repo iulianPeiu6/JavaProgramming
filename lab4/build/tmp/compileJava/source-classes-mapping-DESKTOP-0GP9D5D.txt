@@ -1,0 +1,6 @@
+lab4package/Main.java
+ lab4package.Main
+lab4package/Student.java
+ lab4package.Student
+lab4package/School.java
+ lab4package.School
