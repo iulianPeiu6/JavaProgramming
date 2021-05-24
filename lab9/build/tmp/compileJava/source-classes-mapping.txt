@@ -1,0 +1,24 @@
+entities/Genre.java
+ entities.Genre
+entities/Actor.java
+ entities.Actor
+entities/Director.java
+ entities.Director
+entities/Movie.java
+ entities.Movie
+services/Chart.java
+ services.Chart
+Main.java
+ Main
+services/GenreModel.java
+ services.GenreModel
+services/Repository.java
+ services.Repository
+algorithms/MoviePlaylist.java
+ algorithms.MoviePlaylist
+services/HibernateUtil.java
+ services.HibernateUtil
+services/IRepository.java
+ services.IRepository
+algorithms/Graph.java
+ algorithms.Graph

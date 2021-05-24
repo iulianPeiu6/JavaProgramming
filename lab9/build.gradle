@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.hibernate', name: 'hibernate-core', version: '5.4.0.Final'
+    implementation 'org.xerial:sqlite-jdbc:3.21.0.1'
+    implementation 'com.github.gwenn:sqlite-dialect:0.1.0'
+}
+
+test {
+    useJUnitPlatform()
+}
