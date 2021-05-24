@@ -1,0 +1,1 @@
+[Song{title='Highway to Hell', path='C:\Users\iulia\OneDrive\Desktop\FII\PA\PA\lab5\src\test\java\mediasample\ACDC - Highway to Hell (Official Video).mp3', composerName='ACDC', releaseYear='1979', rating='8.9'}, Book{title='To Kill a Mockingbird', path='C:\Users\iulia\OneDrive\Desktop\FII\PA\PA\lab5\src\test\java\mediasample\Mockingbird.pdf', authorName='Harper Lee'}]

@@ -1,0 +1,4 @@
+shellpackage/ShellTest.java
+ shellpackage.ShellTest
+multimediamanagement/CatalogTest.java
+ multimediamanagement.CatalogTest

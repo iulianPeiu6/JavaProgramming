@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="multimediamanagement.CatalogTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-03-23T15:22:40" hostname="DESKTOP-0GP9D5D" time="3.495">
+  <properties/>
+  <testcase name="Content string should be put in catalogNum1.txt!" classname="multimediamanagement.CatalogTest" time="0.079"/>
+  <testcase name="Image should not be added in catalog, cause: invalid path!" classname="multimediamanagement.CatalogTest" time="0.003"/>
+  <testcase name="Song should be added in catalog!" classname="multimediamanagement.CatalogTest" time="0.003"/>
+  <testcase name="Catalog should be created!" classname="multimediamanagement.CatalogTest" time="0.003"/>
+  <testcase name="Book should be added in catalog!" classname="multimediamanagement.CatalogTest" time="0.004"/>
+  <testcase name="Movie should not be added in catalog: cause: invalid Date!" classname="multimediamanagement.CatalogTest" time="0.003"/>
+  <testcase name="Content should be printed!" classname="multimediamanagement.CatalogTest" time="0.003"/>
+  <testcase name="Content should be loaded from catalogNum1.txt!" classname="multimediamanagement.CatalogTest" time="2.511"/>
+  <testcase name="Content should be opened!" classname="multimediamanagement.CatalogTest" time="0.872"/>
+  <system-out><![CDATA[Book{title='To Kill a Mockingbird', path='C:\Users\iulia\OneDrive\Desktop\FII\PA\PA\lab5\src\test\java\mediasample\Mockingbird.pdf', authorName='Harper Lee'}
+Book{title='To Kill a Mockingbird', path='C:\Users\iulia\OneDrive\Desktop\FII\PA\PA\lab5\src\test\java\mediasample\Mockingbird.pdf', authorName='Harper Lee'}
+Book{title='To Kill a Mockingbird', path='C:\Users\iulia\OneDrive\Desktop\FII\PA\PA\lab5\src\test\java\mediasample\Mockingbird.pdf', authorName='Harper Lee'}
+Book{title='To Kill a Mockingbird', path='C:\Users\iulia\OneDrive\Desktop\FII\PA\PA\lab5\src\test\java\mediasample\Mockingbird.pdf', authorName='Harper Lee'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
