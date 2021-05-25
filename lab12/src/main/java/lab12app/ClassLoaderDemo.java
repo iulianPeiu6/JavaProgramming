@@ -1,8 +1,14 @@
 package lab12app;
 
+import input.InputTestClass;
 import org.testng.annotations.Test;
 
+import java.io.File;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
+import java.util.Arrays;
+import java.util.List;
 
 public class ClassLoaderDemo {
     public ClassLoaderDemo() {
@@ -14,7 +20,7 @@ public class ClassLoaderDemo {
             var associatedClass = loader.loadClass(classname);
             printDetails(associatedClass);
             printStaticNoArgumentsTestAnnotatedMethods(associatedClass);
-        } catch (ClassNotFoundException e) {
+        } catch (ClassNotFoundException | IllegalAccessException | InvocationTargetException | InstantiationException e) {
             e.printStackTrace();
         }
     }
@@ -31,11 +37,26 @@ public class ClassLoaderDemo {
         }
     }
 
-    private void printDetails(Class<?> associatedClass) {
+    private void printDetails(Class<?> associatedClass) throws InvocationTargetException, IllegalAccessException, InstantiationException {
         var className = associatedClass.getName();
         var methods = associatedClass.getMethods();
         System.out.println("Class, " + className + " has the following methods: ");
         for (var method : methods)
             System.out.println(method);
+
+        //tryInvokeTests(associatedClass,methods);
+    }
+
+    private void tryInvokeTests(Class<?> associatedClass, Method[] methods) throws InvocationTargetException, IllegalAccessException {
+        if (associatedClass.isAnnotationPresent(Test.class)) {
+            for (var method : methods)
+                if (method.getParameterCount() == 0)
+                    method.invoke(associatedClass);
+        }
+    }
+
+    public List<File> exploreDirectory(String path){
+        File directory = new File(path);
+        return Arrays.asList(directory.listFiles());
     }
 }

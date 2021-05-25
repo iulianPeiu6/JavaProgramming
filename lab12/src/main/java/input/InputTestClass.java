@@ -2,6 +2,7 @@ package input;
 
 import org.testng.annotations.Test;
 
+@Test
 public class InputTestClass {
 
     @Test

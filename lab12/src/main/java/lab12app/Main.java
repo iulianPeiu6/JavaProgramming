@@ -5,7 +5,7 @@ import java.lang.reflect.InvocationTargetException;
 
 public class Main {
 
-    public static void main(String[] args) throws ClassNotFoundException, IOException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
+    public static void main(String[] args) {
         ClassLoaderDemo classLoaderDemo = new ClassLoaderDemo();
         classLoaderDemo.load("input.InputTestClass");
 
