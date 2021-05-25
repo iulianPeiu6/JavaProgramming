@@ -1,0 +1,8 @@
+com/DisplayLocales.java
+ com.DisplayLocales
+com/Info.java
+ com.Info
+com/SetLocale.java
+ com.SetLocale
+app/LocaleExplore.java
+ app.LocaleExplore
